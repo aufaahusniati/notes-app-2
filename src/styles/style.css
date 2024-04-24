@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #fefaee;
+}
+
+main {
+  padding-bottom: 2em;
+}
+
+.loadingIndicator {
+  display: flex;
+  padding-top: 2rem;
+  justify-content: center;
+}
+
+.text-load {
+  padding-top: 20px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  width: 50%;
+}
